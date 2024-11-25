@@ -70,7 +70,7 @@
   - Testar conexões seguras e validação de tokens.  
 - **📘 Recursos:**  
   - [Understanding OAuth 2.0](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2).  
-  - [Configuração SSL/TLS](https://nodejs.org/en/knowledge/HTTP/servers/how-to-create-a-HTTPS-server/).  
+  - [Configuração SSL/TLS](https://nodejs.org/docs/v22.11.0/api/tls.html#tls-ssl).  
 
 ---
 
@@ -91,6 +91,6 @@
   - Criar um processo BPMN simples no modelador (ex.: fluxo de aprovação).  
   - Executar e monitorar o processo.  
 - **📘 Recursos:**  
-  - [Camunda BPM Documentation](https://camunda.com/bpmn/tutorial/).  
+  - [Camunda BPM Documentation](https://docs.camunda.io).  
 
 ---
