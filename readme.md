@@ -1,8 +1,8 @@
 # 📝 Plano de Estudos para Bolsa em Inovação Tecnológica
 
-## I. Requisitos Atendidos ✅
+## I. Requisitos Atendidos 🧬
 
-### **Obrigatórios**
+### **Obrigatórios** ✅
 - **🌐 Frameworks backend (Node.js):**  
   - Repositório: [iheroes](https://github.com/GitArika/iheroes)  
   - Demonstrado na criação de APIs RESTful em Node.js.  
@@ -23,7 +23,7 @@
   - Repositório: [commitlint-husky](https://github.com/GitArika/commitlint-husky).  
   - Conceitos de automação de processos e boas práticas.
 
-### **Desejáveis**
+### **Desejáveis** ✅
 - **🐳 DevOps (Docker):**  
   - Repositório: [iheroes](https://github.com/GitArika/iheroes).  
   - Experiência prática com Docker para containerização documentada.
